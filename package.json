@@ -15,6 +15,6 @@
     "jest-cli": "^12.0.2",
     "jquery": "^2.2.1",
     "script-loader": "^0.7.0",
-    "webpack": "^1.12.14"
+    "webpack": "^2.2.1"
   }
 }
