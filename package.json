@@ -11,7 +11,7 @@
   "author": "Sean Timm",
   "license": "ISC",
   "devDependencies": {
-    "expose-loader": "^0.7.1",
+    "expose-loader": "^0.7.2",
     "jest-cli": "^12.0.2",
     "jquery": "^2.2.1",
     "script-loader": "^0.7.0",
