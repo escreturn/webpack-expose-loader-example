@@ -12,9 +12,9 @@
   "license": "ISC",
   "devDependencies": {
     "expose-loader": "^0.7.1",
-    "jest-cli": "^12.0.2",
-    "jquery": "^2.2.1",
+    "jest-cli": "^18.1.0",
+    "jquery": "^3.1.1",
     "script-loader": "^0.7.0",
-    "webpack": "^1.12.14"
+    "webpack": "^2.2.1"
   }
 }
